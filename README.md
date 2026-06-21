@@ -11,7 +11,6 @@
 
 </div>
 
-<!-- ANIMATED DIVIDER GIF (Krithiikaa style) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
@@ -37,8 +36,6 @@
 <img src="https://komarev.com/ghpvc/?username=poojamurugan23&color=7c3aed&style=flat-square&label=%E2%97%88+PROFILE+VIEWS&labelColor=0d1117"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-22c55e?style=flat-square&labelColor=0d1117"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CGPA-8.5%20%2F%2010-f59e0b?style=flat-square&labelColor=0d1117"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/BATCH-2023%20%E2%80%93%202027-a78bfa?style=flat-square&labelColor=0d1117"/>
 
